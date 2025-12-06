@@ -63,6 +63,7 @@ A aba:
 - numpy  
 - tkinter
 - scipy
+- pandas
 
 ---
 
