@@ -2,7 +2,7 @@
 
 **LangDouble** é uma aplicação em **Python** desenvolvida para realizar cálculos utilizando dados experimentais de **Sondas Duplas de Langmuir**. O programa automatiza a análise de curvas IxV, o cálculo da temperatura eletrônica \(T_e\) e a determinação da densidade eletrônica \(n_e\), fornecendo gráficos, ajustes e resultados numéricos de forma amigável.
 
-Possui **interface gráfica (Tkinter)**, mas está desatualizada. Utilizar o notebook Jupyter para realizar os cálculos.
+Possui **interface gráfica (Tkinter)**, mas está desatualizada. Utilizar o notebook Jupyter para realizar os cálculos com maior tranquilidade.
 
 ---
 
